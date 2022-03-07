@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m Davi Rocha
 - 💻 Front and Backend Developer
-- ♨ Currently studying JAVA
 
 ##
 <br>
