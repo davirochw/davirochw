@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Davi Rocha
-- 💻 Front and Backend Developer
+- 💻 Full Stack Developer
 
 ##
 <br>
